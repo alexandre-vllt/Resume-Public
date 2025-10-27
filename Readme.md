@@ -30,3 +30,13 @@ The Linear Regression module introduces classical parametric estimation, explori
 ## Project 5 Mechanical Design Project : Automatic Carrot Peeler
 
 This project, completed as part of the Mechanical Construction II course at EPFL, involved the design and development of a fully mechanical carrot-peeling machine. The goal was to create a reliable, ergonomic, and safe device that minimizes the effort required from the user while optimizing peeling speed and efficiency.
+
+## Project 6 : Billiard Motion Analysis System 
+
+This project focuses on the automated analysis of a French billiards game using a combination of C, MATLAB, and LabVIEW. The system processes a sequence of images to detect, track, and analyze the trajectories of billiard balls, identifying rebounds, collisions, and determining whether the player scored.
+
+The C program handles low-level image processing — extracting pixel data and identifying ball positions based on color segmentation. MATLAB scripts perform trajectory reconstruction, interpolation of missing data, and visualization of ball paths and collision points. Finally, the LabVIEW interface orchestrates the workflow, calling the C and MATLAB components while providing a user-friendly visualization and error-handling environment.
+
+This project demonstrates strong skills in multi-language integration, image processing, signal analysis, and system automation, showcasing the ability to combine embedded programming and graphical environments to solve a real-world physics-based problem.
+
+## Project 7 : Autonomous Vehicle 
