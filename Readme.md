@@ -26,3 +26,7 @@ After a theoretical study and problem formalization, the algorithm was implement
 This project explores statistical modeling and regression techniques using Python, focusing on both linear and nonparametric regression methods. The work aims to compare the predictive performance, interpretability, and flexibility of models when applied to real or simulated datasets.
 
 The Linear Regression module introduces classical parametric estimation, exploring coefficient significance and residual analysis. The Nonparametric Regression study (kernel and local polynomial approaches) highlights how relaxing linearity assumptions allows for more adaptable models that capture complex relationships in data.
+
+## Project 5 Mechanical Design Project : Automatic Carrot Peeler
+
+This project, completed as part of the Mechanical Construction II course at EPFL, involved the design and development of a fully mechanical carrot-peeling machine. The goal was to create a reliable, ergonomic, and safe device that minimizes the effort required from the user while optimizing peeling speed and efficiency.
