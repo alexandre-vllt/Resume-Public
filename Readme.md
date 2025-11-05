@@ -1,6 +1,13 @@
 # My projects 
 
-description : here is some project I ve done during my double degree at CentraleSupelec in general engineering
+This repository showcases several projects I completed during my double degree between CentraleSupélec (General Engineering) and EPFL (Bachelor in Mechanical Engineering and Master in Data Science). Each project reflects my growing expertise in engineering design, data analysis, and computational modeling, combining technical rigor with practical problem-solving.
+
+## Project ML : Cardiovascular Disease Prediction only with numpy 
+
+This project focuses on predicting cardiovascular disease (CVD) using the Behavioral Risk Factor Surveillance System (BRFSS) dataset of over 400,000 individuals. Following extensive data cleaning and preprocessing, we implemented and compared several logistic regression models, including Ridge and class-weighted versions to handle class imbalance.
+
+All computations were done exclusively with NumPy, without relying on external machine learning libraries. The final class-weighted logistic regression achieved an F1-score of 0.43 and accuracy of 87.5%, demonstrating effective detection of positive CVD cases and strong skills in low-level numerical programming, data analysis, and model optimization.
+
 
 ## Project 1 : A 2D platformer built with Python
 
@@ -40,3 +47,7 @@ The C program handles low-level image processing — extracting pixel data and i
 This project demonstrates strong skills in multi-language integration, image processing, signal analysis, and system automation, showcasing the ability to combine embedded programming and graphical environments to solve a real-world physics-based problem.
 
 ## Project 7 : Autonomous Vehicle 
+
+This project involves the design of an autonomous vehicle capable of line tracking and obstacle detection using infrared sensors, ultrasonic modules, and a camera controlled via Raspberry Pi and Arduino. The robot follows a path, avoids obstacles, and returns automatically to its base after completing its mission.
+
+It showcases skills in embedded systems, robotics, and real-time control, combining sensor integration and autonomous navigation algorithms within a compact and efficient robotic platform.
