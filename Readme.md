@@ -1,6 +1,6 @@
 # My projects 
 
-This repository showcases several projects I completed during my double degree between CentraleSupélec (General Engineering) and EPFL (Bachelor in Mechanical Engineering and Master in Data Science). Each project reflects my growing expertise in engineering design, data analysis, and computational modeling, combining technical rigor with practical problem-solving.
+This repository showcases several projects I completed during my double degree between CentraleSupélec (General Engineering) and EPFL (Bachelor in Mechanical Engineering and Master in Data Science). Each project reflects my growing expertise in engineering, data analysis, and computational modeling, combining technical rigor with practical problem-solving.
 
 ## Project ML : Cardiovascular Disease Prediction only with numpy 
 
